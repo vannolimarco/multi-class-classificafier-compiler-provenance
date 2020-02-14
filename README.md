@@ -15,7 +15,7 @@
 
 -README.md #this file
   
- #information
- In order to run the code, you need the training and testing (blind) dataset
- provide from homework 1 of Machine Learning Sapienza MAAR 2019/2020.
+## information
+In order to run the code, you need the training and testing (blind) dataset
+provide the subject of Machine Learning Sapienza MAAR 2019/2020.
 
