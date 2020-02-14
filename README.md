@@ -12,8 +12,8 @@
       |__ 1860363.csv.tsv  # the csv file where teh rpedictions have been saved 
       |__ model_binary.model #the model, for binary classification task
       |__ model_binary.model #the model, for multi-class classification task
-
--README.md #this file
+    - report.pdf
+    -README.md #this file
   
 ## information
 In order to run the code, you need the training and testing (blind) dataset
