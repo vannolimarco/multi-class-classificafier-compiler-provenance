@@ -1,4 +1,4 @@
-# Homework 1 Machine Learning 2019  Vannoli Marco
+# Machine Learning 2019  Vannoli Marco
 
 ## skeleton
     - code       #all code 
